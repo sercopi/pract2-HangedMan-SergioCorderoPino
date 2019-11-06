@@ -1,0 +1,48 @@
+[
+    {   "action":"drawStick",
+        "moveTo":[50,150],
+        "lineTo":[50,200]
+    },
+    {
+        "action":"drawStick",
+        "moveTo":[50,200],
+        "lineTo":[20,235]
+    },
+    {
+        "action":"drawStick",
+        "moveTo":[50,200],
+        "lineTo":[80,235]
+    },
+    {
+        "action":"drawStick",
+        "moveTo":[20,190],
+        "lineTo":[50,155]
+    },
+    {
+        "action":"drawCircle",
+        "position":[50,130],
+        "radius": 20,
+        "angleStart": 0,
+        "angleStop": 360
+    },
+    {
+        "action":"drawStick",
+        "moveTo":[80,190],
+        "lineTo":[50,155]
+    },
+    {
+        "action":"drawStick",
+        "moveTo":[50,110],
+        "lineTo":[50,90]
+    },
+    {
+        "action":"drawStick",
+        "moveTo":[150,90],
+        "lineTo":[50,90]
+    },
+    {
+        "action":"drawStick",
+        "moveTo":[150,250],
+        "lineTo":[150,90]
+    }
+]

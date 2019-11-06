@@ -1,0 +1,12 @@
+.letter {
+    display: inline-block;
+    margin: 10px;
+    border-style: outset;
+    padding: 5px;
+}
+#canvasContainer,#alphabet {
+    display:inline-block;
+}
+#alphabet {
+    width: 50%;
+}
